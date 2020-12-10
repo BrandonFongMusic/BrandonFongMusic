@@ -16,3 +16,4 @@ subdomains/*
 debug.log 
 setup-remote.ps1
 */apache/*
+*.zip

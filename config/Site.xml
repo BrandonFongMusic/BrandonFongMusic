@@ -18,6 +18,9 @@
         <StyleSheets>css/bootstrap.min.css</StyleSheets>
         <StyleSheets>css/tooplate-infinite-loop.php</StyleSheets>
         <StyleSheets>css/add.css</StyleSheets>
+        <StyleSheets>css/dark.css</StyleSheets>
+        <StyleSheets>chrome-extension://alncdjedloppbablonallfbkeiknmkdi/css/scroll.css</StyleSheets>
+        <StyleSheets>chrome-extension://alncdjedloppbablonallfbkeiknmkdi/css/custom-styles.css</StyleSheets>
     </Header>
     <Scripts>
         <Script>js/jquery-1.9.1.min.js</Script>
